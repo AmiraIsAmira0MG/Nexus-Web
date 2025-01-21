@@ -9,7 +9,7 @@
     {
         "title": "Legendary",
         "description": "This allows you to download fortnite versions in launcher",
-        "icon": "https://example.com/icons/icon2.png",
+        "icon": "https://raw.githubusercontent.com/AmiraIsAmira0MG/Nexus-Web/refs/heads/main/carbon.png",
         "downloadLink": "https://github.com/derrod/legendary/releases/latest",
         "infoLink": "https://github.com/derrod/legendary"
     }
