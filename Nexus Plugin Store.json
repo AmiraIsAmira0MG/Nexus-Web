@@ -19,5 +19,12 @@
         "icon": "https://lh6.googleusercontent.com/eTnaO9heBSmSFZZDcViXBlSqi9y4WLYw46C7ydo7LsRskUjjuVsveKEIYrqUw4k8lOw0J0Ec30oqH11kUMS-NnJTgsJGQODkiJtNWWnXC9VYRCbmMNuwyn5ToQ0sJtxhbwENRzHPiAY=w740",
         "downloadLink": "https://github.com/AmiraIsAmira0MG/Nexus-Web/blob/main/Nexus%20Plugin%20Store.json",
         "infoLink": "https://plugins.nexus-utilities.linkpc.net/home"
+    },
+    {
+        "title": "Nexus News",
+        "description": "This allows you to intergrate the nexus news system into any application!",
+        "icon": "https://lh6.googleusercontent.com/eTnaO9heBSmSFZZDcViXBlSqi9y4WLYw46C7ydo7LsRskUjjuVsveKEIYrqUw4k8lOw0J0Ec30oqH11kUMS-NnJTgsJGQODkiJtNWWnXC9VYRCbmMNuwyn5ToQ0sJtxhbwENRzHPiAY=w740",
+        "downloadLink": "https://raw.githubusercontent.com/AmiraIsAmira0MG/Nexus-Web/refs/heads/main/Nexus%20News",
+        "infoLink": "https://www.nexus-utilities.linkpc.net"
     }
 ]
