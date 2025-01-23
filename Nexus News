@@ -1,0 +1,18 @@
+[
+  {
+    "Title": "Dynamic Nexus News Is Here!",
+    "Description": "Nexus news can now be used by outside developers AND no loger requires updates of the launcher",
+    "Icon": "https://lh6.googleusercontent.com/eTnaO9heBSmSFZZDcViXBlSqi9y4WLYw46C7ydo7LsRskUjjuVsveKEIYrqUw4k8lOw0J0Ec30oqH11kUMS-NnJTgsJGQODkiJtNWWnXC9VYRCbmMNuwyn5ToQ0sJtxhbwENRzHPiAY=w740",
+    "Buttons": [
+      { "Text": "Join The Discord!", "Link": "https://example.com/read-more" },
+    ]
+  },
+  {
+    "Title": "Welcome to Nexus 1.0!",
+    "Description": "The new era of fortnite launchers begins here.",
+    "Icon": "https://lh6.googleusercontent.com/eTnaO9heBSmSFZZDcViXBlSqi9y4WLYw46C7ydo7LsRskUjjuVsveKEIYrqUw4k8lOw0J0Ec30oqH11kUMS-NnJTgsJGQODkiJtNWWnXC9VYRCbmMNuwyn5ToQ0sJtxhbwENRzHPiAY=w740",
+    "Buttons": [
+      { "Text": "Join The Discord", "Link": "https://example.com/view" }
+    ]
+  }
+]
