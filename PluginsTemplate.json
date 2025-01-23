@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Item 1",
+        "description": "Description 1",
+        "icon": "https://example.com/logo.png",
+        "downloadLink": "https://example.com/downloadlink",
+        "infoLink": "https://example.com/infolink"
+    },
+    {
+        "title": "Item 2",
+        "description": "Description 2",
+        "icon": "https://example.com/logo2.png",
+        "downloadLink": "https://example.com/downloadlink2",
+        "infoLink": "https://example.com/infolink2"
+    }
+]
