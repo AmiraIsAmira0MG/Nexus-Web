@@ -1,7 +1,20 @@
 [
   {
+    "Title": "Discover Nexus Web!",
+    "Description": "Discover nexus web! The latest edition to the Nexus Group. Wether your just in need of a little help, want some cool mods, or just wanna learn more about Nexus Group this is the place for you! Discover today",
+    "Icon": "https://lh6.googleusercontent.com/eTnaO9heBSmSFZZDcViXBlSqi9y4WLYw46C7ydo7LsRskUjjuVsveKEIYrqUw4k8lOw0J0Ec30oqH11kUMS-NnJTgsJGQODkiJtNWWnXC9VYRCbmMNuwyn5ToQ0sJtxhbwENRzHPiAY=w740",
+    "Buttons": [
+      { "Text": "Join The Discord!", "Link": "https://discord.gg/gZZtysUAp3" },
+      { "Text": "Contact us!", "Link": "https://docs.google.com/forms/d/e/1FAIpQLSeNFU-uw4kq7uXguhHXQQIE9dSABrZkJeSDapt27TJHVlk_-w/viewform/" },
+      { "Text": "Nexus Homepage", "Link": "https://nexus-utilities.linkpc.net/" },
+      { "Text": "Nexus Help", "Link": "https://help.nexus-utilities.linkpc.net/" },
+      { "Text": "Nexus About", "Link": "https://about.nexus-utilities.linkpc.net/" },
+      { "Text": "Nexus Plugins", "Link": "https://plugins.nexus-utilities.linkpc.net/" },
+    ]
+  },
+  {
     "Title": "Dynamic Nexus News Is Here!",
-    "Description": "Nexus news can now be used by outside developers AND no loger requires updates of the launcher",
+    "Description": "Nexus news can now be used by outside developers AND no loger requires updates of the launcher!",
     "Icon": "https://lh6.googleusercontent.com/eTnaO9heBSmSFZZDcViXBlSqi9y4WLYw46C7ydo7LsRskUjjuVsveKEIYrqUw4k8lOw0J0Ec30oqH11kUMS-NnJTgsJGQODkiJtNWWnXC9VYRCbmMNuwyn5ToQ0sJtxhbwENRzHPiAY=w740",
     "Buttons": [
       { "Text": "Join The Discord!", "Link": "https://discord.gg/gZZtysUAp3" },
