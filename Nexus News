@@ -15,16 +15,4 @@
       { "Text": "Join The Discord", "Link": "https://discord.gg/gZZtysUAp3" }
     ]
   },
-  {
-    "Title": "Dynamic Nexus News Is Here!",
-    "Description": "Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test",
-    "Icon": "https://lh6.googleusercontent.com/eTnaO9heBSmSFZZDcViXBlSqi9y4WLYw46C7ydo7LsRskUjjuVsveKEIYrqUw4k8lOw0J0Ec30oqH11kUMS-NnJTgsJGQODkiJtNWWnXC9VYRCbmMNuwyn5ToQ0sJtxhbwENRzHPiAY=w740",
-    "Buttons": [
-      { "Text": "Join The Discord!", "Link": "https://discord.gg/gZZtysUAp3" },
-      { "Text": "Test", "Link": "https://example.com/read-more" },
-      { "Text": "Test 2", "Link": "https://example.com/2" },
-      { "Text": "Test 3", "Link": "https://example.com/3" },
-      { "Text": "Test 4", "Link": "https://example.com/4" },
-    ]
-  },
 ]
