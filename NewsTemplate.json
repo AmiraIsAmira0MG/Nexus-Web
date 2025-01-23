@@ -1,0 +1,19 @@
+[
+  {
+    "Title": "News title 1",
+    "Description": "News description 1",
+    "Icon": "https://example.com/logo.png",
+    "Buttons": [
+      { "Text": "button0", "Link": "https://example.com/1" },
+    ]
+  },
+  {
+    "Title": "News title 2",
+    "Description": "News description 2",
+    "Icon": "https://example.com/logo2.png",
+    "Buttons": [
+      { "Text": "button1", "Link": "https://example.com/2" },
+      { "Text": "button2", "Link": "https://example.com/3" }
+    ]
+  }
+]
